@@ -1,0 +1,148 @@
+.first-box{
+    width: 100%;   
+
+}
+a{
+    color:rgb(10, 10, 10);
+    text-decoration: none;
+}
+.f-box1{
+    display: flex;
+}
+.f-box11{
+    margin-left: 3em;
+    color: deepskyblued;
+}
+.f-box12{
+    display: flex;
+    margin-left: 30em;
+    color:rgb(12, 12, 12);
+    gap:4em;
+    cursor: pointer;
+    
+}
+.btn{
+    display: flex;
+    gap:1em;
+    justify-content: space-around;
+}
+.f-btn1{
+    border-radius: 15px;
+    padding: 1em;
+    margin-left: 2em;
+    border:none;
+    background-color: white;
+    color:black;
+    margin-top: 1.5em;
+    margin-bottom: 2.5em;
+    padding-left: 1.7em;
+    padding-right: 1.7em;
+    cursor: pointer;
+}
+.sec-h1{
+    background-color: white;
+    color:#2F327D;
+    margin-top: 2em;
+}
+.second-box{
+    padding-left:5em;
+    padding-right:5em;
+}
+.sec-p{
+    margin-top: 5em;
+    color:#696984;
+}
+.sec-pp{
+     color:#696984;
+}
+.sec-btn1{
+    padding:1em;
+    padding-left:1.5em;
+    padding-right:1.5em;
+    border:none;
+    border-radius:30px;
+    margin-top: 2em;
+    background-color: #c7f8f9;
+}
+.sec-btn{
+    padding:1em;
+    padding-left:1.5em;
+    padding-right:1.5em;
+    border:none;
+    border-radius:30px;
+    margin-top: 2em;
+    margin-left: 2em;
+     background-color:#c7f8f9 ;
+}
+.sec-btn2{
+    padding: 0.5em;
+    padding-left: 4em;
+    padding-right: 4em;
+    color:#49BBBD;
+    margin-left: 95em;
+    background-color: white;
+    border-color: #1a898b;
+}
+.final-box{
+    background-color: #252641;
+    height:50%;
+    width:100%;
+    margin-top: 5em;
+    color: white;
+   }
+  .final{
+    margin-left: 35em;
+    margin-right: 20em;
+    padding-top: 3em;
+   }
+   .fi-box{
+    /* border: 1px solid black; */
+    display: flex;
+    gap:3em;
+    text-align: center;
+    height: 20%;
+   }
+   .line{
+    height: 80%;
+    border: 2px solid #626381;
+   }
+   h3{
+    padding-left: 3em;
+    color:#aeb0d7;
+   }
+   .final-btn1{
+    padding:10px;
+    border-radius: 10px;
+    padding-left: 2em;
+    margin-left: 1em;
+    background-color: #aeb0d7;
+    margin-top: 1em;
+   }
+   .final-btn2{
+    background-color: #49BBBD;
+    padding:10px;
+    border-radius: 10px;
+    padding-left: 2em;
+    margin-left: 1em;
+    margin-top: 1em;
+   }
+   .career{
+    display: flex;
+   gap:0.5em;
+    margin-top: 1em;
+    padding-left: 1em;
+    color:#aeb0d7 ;
+   }
+   .line1{
+    height:10px;
+    margin-top: 1.2em;
+     border: 2px solid #626381;
+     color:#aeb0d7 ;
+   }
+   .final-h5{
+     color:#aeb0d7 ;
+     margin-left: 7em;
+   }
+   .ff-p{
+    padding-top: 1em;
+   }
